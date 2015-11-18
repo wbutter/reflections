@@ -16,3 +16,9 @@ change?
  - You can move only the files with intended changes to the staging area and
    then use 'git diff --staged' to view all changes between the staging area
    and the master (current version).
+
+What are some situations when branches would be helpful in keeping your history
+organized?  How would branches help?
+ - Branches can help when you are working on something experimental and don't
+   want to affect the master.  Also, they can be helpful when multiple people
+   are collaborating on the same codebase.
