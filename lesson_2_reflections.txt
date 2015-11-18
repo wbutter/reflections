@@ -1,0 +1,12 @@
+UDACITY - How to Use Git and GitHub - Lesson 2 Reflections
+
+What happens when you initialize a repository?  Why do you need to do it?
+ - Creating the repository creates the .git folder and structure to start
+   tracking changes.  You need to do it so when you change a file there will
+   be a record of the change.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+ - The staging area contains only the files that are to be included in the next
+   commit; the working directory contains all files.  This is valuable because
+   you can choose which files to commit to the repository.
