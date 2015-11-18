@@ -1,0 +1,26 @@
+Reflections from "How to Use Git and GitHub" by UDACITY...
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+ - Making bugs easier to find and squash!
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, versus having versions automatically saved, like
+Google Docs does?
+ - Manually saving allows you to "commit" changes at logical intervals
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file seperately?
+ - Saving multiple files in one commit allows you to effectively track changes
+   across multiple files when those files are related.
+
+How can you use the commands 'git log' and 'git diff' to view history of files?
+ - 'git log' finds the ids and 'git diff' shows you the changes between two ids.
+
+How might using version control make you more confident to make changes that
+could break something?
+ - If you have made a commit before making the change, it is easy to go back.
+
+Now the you have your workspace set up, what do you want to try using Git for?
+ - Tracking all of my development... specifically, modifying "Gamma Thingy" to
+   to have a minimum orangeness setting.
