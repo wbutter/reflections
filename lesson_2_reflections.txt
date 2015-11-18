@@ -22,3 +22,7 @@ organized?  How would branches help?
  - Branches can help when you are working on something experimental and don't
    want to affect the master.  Also, they can be helpful when multiple people
    are collaborating on the same codebase.
+
+How do the diagrams help you visualize the branch structure?
+ - Using 'git log --graph --oneline master <branch_name>' shows you the commits
+   that are in each branch and at which commit the split occurred.
