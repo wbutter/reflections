@@ -32,3 +32,9 @@ the diagram the way we do?
  - All changes from both branches are incorporated into the new commit during
    the merge.  It is shown in the diagram as having two parents because changes
    came from both branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+ - Automatic merging can save time if all changes are separate, however, it can
+   get confusing if there are changes to the same area of the code... but, not
+   any more confusing then a manual merge would be anyway.
