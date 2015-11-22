@@ -2,5 +2,9 @@ UDACITY - How to Use Git and GitHub - Lesson 3 Reflections
 
 When would you want to use a remote repository rather then keeping all your work local?
  - When you want to work from multiple computers or are colaborating with a team.
- 
- 
+
+Why might you want to always pull changes manually rather then having Git
+automatically stay up-to-date with your remote repository?
+ - Because if it automatically update from the remote then you wouldn't know
+   that changes are being made and it could over write or mess up changes you
+   are testing.
