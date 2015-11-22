@@ -20,3 +20,10 @@ use one instead of another?
    repository on your local box), and a branches is a path of commits that is
    separate from other paths of commits used to keep modifications separate
    (commonly between multiple developers).
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+ - With the last known state stored locally, there is less chance that you will
+   have to do a merge to get back to "up-to-date" status after making chances
+   because you can do a fast-forward merge (unless someone else also makes
+   changes in that same time frame).
