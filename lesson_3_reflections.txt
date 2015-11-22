@@ -35,3 +35,11 @@ and what would be harder?
    There are other systems of tracking files changes (like Google Docs),
    however, I'm not aware of another that lets you skip back and forth between
    old and current versions so easily.
+
+When would you want to make changes in a separate branch rather than directly
+in master?  What benefits does each approach have?
+ - You would want to make changes in a separate branch when you are modifying
+   code that you would like to merge back in to a collaborative project, adding
+   a feature, or building experimental code... basically anytime you don't want
+   to directly affect the master.  You may want to make change in master when
+   you are the project owner and are making minor teaks or bug fixes.
