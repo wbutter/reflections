@@ -1,0 +1,6 @@
+UDACITY - How to Use Git and GitHub - Lesson 3 Reflections
+
+When would you want to use a remote repository rather then keeping all your work local?
+ - When you want to work from multiple computers or are colaborating with a team.
+ 
+ 
