@@ -27,3 +27,11 @@ stored locally?
    have to do a merge to get back to "up-to-date" status after making chances
    because you can do a fast-forward merge (unless someone else also makes
    changes in that same time frame).
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+ - Without Git and GitHub, collaboration would be arduous and would require
+   a lot of reviewing of code and documents just to find what changes were made.
+   There are other systems of tracking files changes (like Google Docs),
+   however, I'm not aware of another that lets you skip back and forth between
+   old and current versions so easily.
